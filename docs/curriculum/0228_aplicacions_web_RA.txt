@@ -1,0 +1,84 @@
+0228. Aplicacions web
+Durada: 119 hores
+Hores a realitzar en el centre educatiu: 66 hores
+Hores d’estada a l’empresa: 53 hores
+Resultats d’aprenentatge i criteris d’avaluació 
+Instal·la gestors de continguts, identificant-ne les aplicacions i configurant-los segons requeriments.
+Criteris d'avaluació
+Identifica els requeriments necessaris per instal·lar gestors de continguts.
+Gestiona usuaris amb rols diferents.
+Personalitza la interfície del gestor de continguts.
+Realitza proves de funcionament.
+Realitza tasques d'actualització del gestor de continguts, especialment les de seguretat.
+Instal·la i configura els mòduls i menús necessaris.
+Activa i configura els mecanismes de seguretat proporcionats pel propi gestor de continguts.
+Habilita fòrums i estableix regles d'accés.
+Realitza proves de funcionament.
+Realitza còpies de seguretat dels continguts del gestor.
+Instal·la sistemes de gestió d'aprenentatge a distància, descrivint-ne l'estructura del lloc i la jerarquia de directoris generada.
+Criteris d'avaluació
+Reconeix l'estructura del lloc i la jerarquia de directoris generada.
+Realitza modificacions en l'estètica o aspecte del lloc.
+Manipula i genera perfils personalitzats.
+Comprova la funcionalitat de les comunicacions mitjançant fòrums, consultes, entre d’altres.
+Importa i exporta continguts en diferents formats.
+Realitza còpies de seguretat i restauracions.
+Realitza informes d'accés i utilització del lloc.
+Comprova la seguretat del lloc.
+Instal·la serveis de gestió d'arxius web, identificant-ne les aplicacions i verificant-ne la integritat.
+Criteris d'avaluació
+Estableix la utilitat d'un servei de gestió d'arxius web.
+Descriu diferents aplicacions de gestió d'arxius web.
+Instal·la i adapta una eina de gestió d'arxius web.
+Crea i classifica comptes d'usuari en funció dels seus permisos.
+Gestiona arxius i directoris.
+Utilitza arxius d'informació addicional.
+Aplica criteris d'indexació sobre els arxius i directoris.
+Comprova la seguretat del gestor d'arxius.
+Instal·la aplicacions d'ofimàtica web, descrivint-ne les característiques i entorns d'ús.
+Criteris d'avaluació
+Estableix la utilitat de les aplicacions d'ofimàtica web.
+Descriu diferents aplicacions d'ofimàtica web (processador de textos, full de càlcul, entre altres).
+Instal·la aplicacions d'ofimàtica web.
+Gestiona els comptes d'usuari.
+Aplica criteris de seguretat en l'accés dels usuaris.
+Reconeix les prestacions específiques de cadascuna de les aplicacions instal·lades.
+Utilitza les aplicacions de forma col·laborativa.
+Instal·la aplicacions web d'escriptori, descrivint-ne les característiques i entorns d'ús.
+Criteris d'avaluació
+Descriu diferents aplicacions web d'escriptori.
+Instal·la aplicacions per a proveir d'accés web al servei de correu electrònic.
+Configura les aplicacions per a integrar-les amb un servidor de correu.
+Gestiona els comptes d'usuari.
+Verifica l'accés al correu electrònic.
+Instal·la aplicacions de calendari web.
+Reconeix les prestacions específiques de les aplicacions instal·lades (cites, tasques, entre altres).
+Continguts (orientatius)
+Instal·lació de gestors de continguts:
+Instal·lació en sistemes operatius lliures i propietaris.
+Creació d'usuaris i grups d'usuaris.
+Utilització de la interfície gràfica. Personalització de l'entorn. Funcionalitats proporcionades pel gestor de continguts. Sindicació.
+Funcionament dels gestors de continguts.
+Actualitzacions del gestor de continguts. Configuració de mòduls i menús.
+Instal·lació de sistemes de gestió d'aprenentatge a distància:
+Elements lògics: comunicació, materials i activitats.
+Instal·lació en sistemes operatius lliures i propietaris. Modes de registre. Interfície gràfica associada. Personalització de l'entorn. Navegació i edició.
+Creació de cursos seguint especificacions. Gestió d'usuaris i grups. Activació de funcionalitats.
+Instal·lació de serveis de gestió d'arxius web:
+Instal·lació. Navegació i operacions bàsiques. Administració del gestor.
+Usuaris i permisos. Tipus d'usuari.
+Creació de recursos compartits.
+Instal·lació d'aplicacions d'ofimàtica web:
+Instal·lació. Utilització de les aplicacions instal·lades.
+Gestió d'usuaris i permisos associats.
+Comprovació de la seguretat.
+Instal·lació d'aplicacions web d'escriptori:
+Aplicacions de correu web. Instal·lació.
+Gestió d'usuaris.
+0156. Anglès Professional
+Durada: 66 hores
+Hores a realitzar en el centre educatiu: 66 hores
+Resultats d’aprenentatge i criteris d’avaluació 
+Comprèn informació, d'índole professional i quotidiana, continguda en discursos orals senzills, emesos en llengua estàndard, desxifrant el contingut global del missatge, i relacionant-lo amb els recursos lingüístics corresponents.
+Criteris d'avaluació
+Situa el missatge en el seu context per mitjà de l'anàlisi de les seves característiques textuals i contextuals.

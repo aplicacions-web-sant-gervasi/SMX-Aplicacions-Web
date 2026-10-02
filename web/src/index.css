@@ -1,0 +1,33 @@
+@tailwind base;
+@tailwind components;
+@tailwind utilities;
+
+@layer base {
+  body { @apply bg-gray-50 text-gray-900; }
+}
+
+/* Estils del Markdown renderitzat */
+@layer components {
+  .md h1 { @apply text-3xl font-bold text-gray-900 mb-6; }
+  .md h2 { @apply text-2xl font-semibold text-gray-800 mt-10 mb-4 pb-2 border-b scroll-mt-20; }
+  .md h3 { @apply text-xl font-semibold text-gray-700 mt-6 mb-3 scroll-mt-20; }
+  .md h4 { @apply font-semibold text-gray-700 mt-4 mb-2; }
+  .md p { @apply text-gray-700 mb-4 leading-relaxed; }
+  .md ul { @apply list-disc pl-6 mb-4 space-y-1 text-gray-700; }
+  .md ol { @apply list-decimal pl-6 mb-4 space-y-1 text-gray-700; }
+  .md li > ul, .md li > ol { @apply mt-1 mb-0; }
+  .md li > p { @apply mb-1; }
+  .md a { @apply text-primary-700 underline underline-offset-2 hover:text-primary-900; }
+  .md strong { @apply font-semibold text-gray-900; }
+  .md blockquote { @apply border-l-4 border-primary-500 bg-primary-50 px-4 py-3 my-4 rounded-r-lg; }
+  .md blockquote p { @apply mb-0 text-gray-800; }
+  .md blockquote p + p { @apply mt-2; }
+  .md table { @apply w-full border-collapse mb-6 text-sm block overflow-x-auto; }
+  .md th { @apply bg-gray-100 border border-gray-300 px-3 py-2 text-left font-semibold; }
+  .md td { @apply border border-gray-300 px-3 py-2 align-top; }
+  .md code { @apply bg-gray-100 px-1 py-0.5 rounded text-sm font-mono text-gray-800; }
+  .md pre { @apply bg-gray-900 text-gray-100 p-4 rounded-lg overflow-x-auto mb-4 text-sm; }
+  .md pre code { @apply bg-transparent p-0 text-gray-100; }
+  .md hr { @apply my-8; }
+  .md input[type='checkbox'] { @apply mr-2; }
+}
